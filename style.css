@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Play";
+    src: url(assets/play_regular.ttf);
+}
+
+@font-face {
+    font-family: "Righteous";
+    src: url(assets/righteous_regular.ttf);
+}
+
+body {
+    text-align: center;
+}
+
+header {
+    margin: 5% 0;
+}
+
+header h1 {
+    font-family: 'Righteous';
+}
+
+header h2 {
+    font-family: 'Play';
+}
